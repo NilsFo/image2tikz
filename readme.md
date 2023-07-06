@@ -1,4 +1,4 @@
-[![GitHub Stars](https://img.shields.io/github/stars/RUB-NilsFo/image2tikz.svg?style=social&label=Star)](https://github.com/NilsFo/image2tikz)
+[![GitHub Stars](https://img.shields.io/github/stars/NilsFo/image2tikz.svg?style=social&label=Star)](https://github.com/NilsFo/image2tikz)
 &nbsp;
 [![GitHub Downloads](https://img.shields.io/github/downloads/NilsFo/image2tikz/total?style=social)](https://github.com/NilsFo/image2tikz/releases)
 
