@@ -16,6 +16,10 @@
 [![Pull Requests](https://img.shields.io/github/issues-pr/NilsFo/image2tikz?style=flat)](https://github.com/NilsFo/image2tikz/pulls)
 &nbsp;
 [![Commits](https://img.shields.io/github/commit-activity/m/NilsFo/image2tikz?style=flat)](https://github.com/NilsFo/image2tikz/)
+&nbsp;
+[![Latest Release](https://img.shields.io/github/v/release/NilsFo/image2tikz?style=flat)](https://github.com/NilsFo/image2tikz/)
+&nbsp;
+[![Release Date](https://img.shields.io/github/release-date/NilsFo/image2tikz?style=flat)](https://github.com/NilsFo/image2tikz/releases)
 
 ***
 
@@ -61,3 +65,7 @@ You also may include this library in your tex document:
 ````
 \usepackage{morefloats}
 ````
+
+## Requirements
+
+See `requirements.txt` in this repository.
